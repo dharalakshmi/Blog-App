@@ -45,8 +45,8 @@ A secure and scalable full-stack blogging application designed with distributed 
 ## ⚙️ Installation
 
 1. **Clone the repository**  
-   git clone https://github.com/dharalakshmi/Blog-App.git
-   cd your-repo-name
+- git clone https://github.com/dharalakshmi/Blog-App.git
+- cd your-repo-name
 
 2. **Set up the database**
 - Import the provided SQL file into MySQL
