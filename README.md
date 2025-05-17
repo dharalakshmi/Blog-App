@@ -37,7 +37,7 @@ A secure and scalable full-stack blogging application designed with distributed 
 4. Follow/Unfollow Functionality
 ![Screenshot 2025-05-12 112758](https://github.com/user-attachments/assets/88a1be33-757b-4627-aeb1-c51632681a3a)
 
-5. Admin Dashboard (if applicable)
+5. Admin Panel (Dashboard)
 ![Screenshot 2025-05-11 234047](https://github.com/user-attachments/assets/6ead816a-c848-4e5a-88cb-c043f02c19ef)
 
 
